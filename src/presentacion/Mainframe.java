@@ -19,6 +19,7 @@ public class Mainframe extends javax.swing.JFrame {
      * Creates new form Mainframe
      */
     public Mainframe() {
+        setTitle("Sistema de Control de Inventario - UISIL");
         initComponents();
          tblProductos.getSelectionModel().addListSelectionListener(evt -> {
         int fila = tblProductos.getSelectedRow();
