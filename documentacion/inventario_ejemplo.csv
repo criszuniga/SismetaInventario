@@ -1,0 +1,4 @@
+ID,Codigo,Nombre,Categoria,Cantidad,Precio,Disponible
+1,11,Cafe,Hogar,10,250.5,true
+2,12,Teclado,Electronica,5,10.5,false
+3,13,Mapa,Hogar,1,300.5,true
